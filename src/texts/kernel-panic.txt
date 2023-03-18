@@ -1,0 +1,6 @@
+
+Kernel panic, or "Blue Screen of Death" on Windows is a type of error
+that the operating system displays when it cannot recover or fix the
+error that has occured. Kernel panic is mostly associated with *NIX
+systems.
+
